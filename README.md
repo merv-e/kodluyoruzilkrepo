@@ -17,6 +17,6 @@ Projeyi klonlandıktan sonra Visual Studio Code'da açınız. Bunun için cmd'ye
 cd kodluyoruzilkrepo
 code . 
 ```
-
+ 
 ## License 
 [MIT](https://choosealicense.com/licenses/mit/)
